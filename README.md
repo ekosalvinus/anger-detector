@@ -1,3 +1,15 @@
+## Clone this project first
+``` bash
+git clone git@github.com:ekosalvinus/anger-detector.git
+
+```
+
+### and then , go into the folder 
+``` bash
+cd anger-detector
+
+```
+
 ## membuat virtual environment terlebih dahulu
 ``` bash
 python3 -m venv venv
