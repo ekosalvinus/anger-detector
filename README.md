@@ -22,7 +22,7 @@ Tips: Setiap kali Anda membuka terminal baru, ingat untuk aktifkan virtual envir
 
 ## Penjelasan:
 
-- `python3 -m venv venv` → Membuat folder virtual environment bernama venv
+- `python3 -m venv venv` → Membuat folder virtual environment bernama `venv`
 - `source venv/bin/activate` → Mengaktifkan virtual environment (prompt akan berubah ke `(venv)`)
 - Sekarang `pip install` akan berjalan di dalam virtual environment, bukan system-wide
 
